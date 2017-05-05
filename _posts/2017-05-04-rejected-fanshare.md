@@ -29,7 +29,7 @@ Yaiyalah dibanned orang **GAK MAU KETAUAN KALO WEB SAMA FP PALSU**.
 <div style="text-align:center">
 <a href="https://3.bp.blogspot.com/-EJSTp_HprB4/WQsq7e5MbFI/AAAAAAAAFzA/z_CazWVAXvcqQ4uFJWcSJB-u4d21qKcngCLcB/s1600/kuro%2Bfake1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="304" src="https://3.bp.blogspot.com/-EJSTp_HprB4/WQsq7e5MbFI/AAAAAAAAFzA/z_CazWVAXvcqQ4uFJWcSJB-u4d21qKcngCLcB/s640/kuro%2Bfake1.png" width="640" /></a></div>
 
-<div style="text-align: justify;">..</div>
+<div style="text-align: justify;"> O_o </div>
 
 <div style="text-align:center">
 <a href="https://4.bp.blogspot.com/-vwDy3jP5YtQ/WQsrC60opDI/AAAAAAAAFzE/gBQ93XjnCfggGeBpgln7q-3oEQ1KQyZ-ACLcB/s1600/kuro%2Bfake2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="500" src="https://4.bp.blogspot.com/-vwDy3jP5YtQ/WQsrC60opDI/AAAAAAAAFzE/gBQ93XjnCfggGeBpgln7q-3oEQ1KQyZ-ACLcB/s640/kuro%2Bfake2.png" width="640" /></a></div>
