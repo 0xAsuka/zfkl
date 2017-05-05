@@ -11,7 +11,7 @@ Maksudnya apaan coba wkwkwk . Nanya baik baik "**min, kalo emang lu maintan admi
 
 <div style="text-align: justify;">Dan akhirnya t e r b a n n e d.</div>
 
-<div class="separator" style="clear: both; text-align: center;">[![](https://2.bp.blogspot.com/-wDm9IAvvvjU/WQsqP4Q97tI/AAAAAAAAFy0/Rnta4t0wwKgKAxKhCBMS8HCGYixeA78nACLcB/s640/aaaaa.png)](https://2.bp.blogspot.com/-wDm9IAvvvjU/WQsqP4Q97tI/AAAAAAAAFy0/Rnta4t0wwKgKAxKhCBMS8HCGYixeA78nACLcB/s1600/aaaaa.png)</div>
+<div class="separator" style="clear: both; text-align: center;">[![aaaa](https://2.bp.blogspot.com/-wDm9IAvvvjU/WQsqP4Q97tI/AAAAAAAAFy0/Rnta4t0wwKgKAxKhCBMS8HCGYixeA78nACLcB/s640/aaaaa.png)](https://2.bp.blogspot.com/-wDm9IAvvvjU/WQsqP4Q97tI/AAAAAAAAFy0/Rnta4t0wwKgKAxKhCBMS8HCGYixeA78nACLcB/s1600/aaaaa.png)</div>
 
 <div style="text-align: justify;">Yaiyalah dibanned orang **GAK MAU KETAUAN KALO WEB SAMA FP PALSU**.</div>
 
