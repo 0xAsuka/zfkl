@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Rejected Fanshare #fakekurogazedown
+title: Rejected Fanshare! #fakekurogazedown
 tags: [shitpost]
 fullview: false
+description : "Fake Kurogaze" server just falling down. they back to blogspot now.
 ---
 
 <div style="text-align: justify;">Sadar diri aja lah ya. Gak level kalo mau nyaingin kurogaze.io. Palsu ya palsu aja gak usah belagu pake ngaku ngaku mantan admin. Segala akun gw dibanned dari fanspage. lol.</div>
@@ -20,19 +21,23 @@ Yaiyalah dibanned orang **GAK MAU KETAUAN KALO WEB SAMA FP PALSU**.
 
 <div style="text-align: justify;">RIP Faker.</div>
 
-![](https://3.bp.blogspot.com/-zYMn1D3b_Xw/WQsq1ZY6jTI/AAAAAAAAFy8/4QJixczk27Y4AiXeQCJbaWwccSWm44grgCLcB/s640/kuro%2Bfake.png)
+<div style="text-align:center">
+<a href="https://3.bp.blogspot.com/-zYMn1D3b_Xw/WQsq1ZY6jTI/AAAAAAAAFy8/4QJixczk27Y4AiXeQCJbaWwccSWm44grgCLcB/s1600/kuro%2Bfake.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="404" src="https://3.bp.blogspot.com/-zYMn1D3b_Xw/WQsq1ZY6jTI/AAAAAAAAFy8/4QJixczk27Y4AiXeQCJbaWwccSWm44grgCLcB/s640/kuro%2Bfake.png" width="640" /></a></div>
 
 <div style="text-align: justify;">Unknown host ??</div>
 
-![](https://3.bp.blogspot.com/-EJSTp_HprB4/WQsq7e5MbFI/AAAAAAAAFzA/z_CazWVAXvcqQ4uFJWcSJB-u4d21qKcngCLcB/s640/kuro%2Bfake1.png)
+<div style="text-align:center">
+<a href="https://3.bp.blogspot.com/-EJSTp_HprB4/WQsq7e5MbFI/AAAAAAAAFzA/z_CazWVAXvcqQ4uFJWcSJB-u4d21qKcngCLcB/s1600/kuro%2Bfake1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="304" src="https://3.bp.blogspot.com/-EJSTp_HprB4/WQsq7e5MbFI/AAAAAAAAFzA/z_CazWVAXvcqQ4uFJWcSJB-u4d21qKcngCLcB/s640/kuro%2Bfake1.png" width="640" /></a></div>
 
 <div style="text-align: justify;">..</div>
 
-![](https://4.bp.blogspot.com/-vwDy3jP5YtQ/WQsrC60opDI/AAAAAAAAFzE/gBQ93XjnCfggGeBpgln7q-3oEQ1KQyZ-ACLcB/s640/kuro%2Bfake2.png)
+<div style="text-align:center">
+<a href="https://4.bp.blogspot.com/-vwDy3jP5YtQ/WQsrC60opDI/AAAAAAAAFzE/gBQ93XjnCfggGeBpgln7q-3oEQ1KQyZ-ACLcB/s1600/kuro%2Bfake2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="500" src="https://4.bp.blogspot.com/-vwDy3jP5YtQ/WQsrC60opDI/AAAAAAAAFzE/gBQ93XjnCfggGeBpgln7q-3oEQ1KQyZ-ACLcB/s640/kuro%2Bfake2.png" width="640" /></a></div>
 
 <div style="text-align: justify;">Duh pake bilang perbaikan. Perbaikan maklo. emang bisa ? Segala perbaikan megang server masih pake panel anjeng wkakaka. kalo gak dibenerin sama provider juga pasti cuma diem sambil coli.</div>
 
-![](https://1.bp.blogspot.com/-OXWO1iLFmTc/WQsrSZjQMaI/AAAAAAAAFzI/XsTYctYnqYU2_MldxOmU1YgoG3YkNqphgCLcB/s640/kuro%2Bnoob.png)
+<div style="text-align:center">
+<a href="https://1.bp.blogspot.com/-OXWO1iLFmTc/WQsrSZjQMaI/AAAAAAAAFzI/XsTYctYnqYU2_MldxOmU1YgoG3YkNqphgCLcB/s1600/kuro%2Bnoob.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="414" src="https://1.bp.blogspot.com/-OXWO1iLFmTc/WQsrSZjQMaI/AAAAAAAAFzI/XsTYctYnqYU2_MldxOmU1YgoG3YkNqphgCLcB/s640/kuro%2Bnoob.png" width="640" /></a></div>
 
 <div style="text-align: justify;">Gak usah ngasih harapan palsu segala bilang "kita lagi perbaikan" . Bilang aja "kita lagi pasrah nunggu provider server ngeup lagi server kita". Lanjut aja coli sana wakakakaka.  
 
@@ -43,6 +48,8 @@ Udah lah ya gitu aja salam dari kita korban banned fp palsu.
 **UPDATE** :  
 rekt. back to blogspot.  
 
-![](https://3.bp.blogspot.com/-J4XuZu7S1es/WQybAZuUHDI/AAAAAAAAFz8/M9EUs2psmuU4EcoFYZy6tuG0z3fgKhx2ACLcB/s640/rekt.png)
+<div style="text-align:center">
+<a href="https://3.bp.blogspot.com/-J4XuZu7S1es/WQybAZuUHDI/AAAAAAAAFz8/M9EUs2psmuU4EcoFYZy6tuG0z3fgKhx2ACLcB/s1600/rekt.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="355" src="https://3.bp.blogspot.com/-J4XuZu7S1es/WQybAZuUHDI/AAAAAAAAFz8/M9EUs2psmuU4EcoFYZy6tuG0z3fgKhx2ACLcB/s640/rekt.png" width="640" /></a></div>
+Gak sanggup megang server ya . h h h.</div>
 
 Gak sanggup megang server ya . h h h.
