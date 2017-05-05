@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Rejected Fanshare! #fakekurogazedown
+title: Rejected Fanshare!
+description : "Fake Kurogaze" server just falling down. they back to blogspot now.
 tags: [shitpost]
 fullview: false
-description : "Fake Kurogaze" server just falling down. they back to blogspot now.
 ---
 
 <div style="text-align: justify;">Sadar diri aja lah ya. Gak level kalo mau nyaingin kurogaze.io. Palsu ya palsu aja gak usah belagu pake ngaku ngaku mantan admin. Segala akun gw dibanned dari fanspage. lol.</div>
@@ -50,6 +50,5 @@ rekt. back to blogspot.
 
 <div style="text-align:center">
 <a href="https://3.bp.blogspot.com/-J4XuZu7S1es/WQybAZuUHDI/AAAAAAAAFz8/M9EUs2psmuU4EcoFYZy6tuG0z3fgKhx2ACLcB/s1600/rekt.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="355" src="https://3.bp.blogspot.com/-J4XuZu7S1es/WQybAZuUHDI/AAAAAAAAFz8/M9EUs2psmuU4EcoFYZy6tuG0z3fgKhx2ACLcB/s640/rekt.png" width="640" /></a></div>
-Gak sanggup megang server ya . h h h.</div>
 
 Gak sanggup megang server ya . h h h.
