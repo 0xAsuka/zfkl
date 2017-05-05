@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello World!
-categories: [article]
 tags: [shitpost]
 fullview: false
 comments: true
