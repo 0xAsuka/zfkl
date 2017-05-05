@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: zafk1el-github-io
+disqus: dbyll
 google_analytics: dbyll
 title: zafk1el
 
@@ -18,7 +18,7 @@ defaults:
 
 description: just another github blog
 author:
-  name: yuyudhn
+  name: dbyll
   email: yuyudhn@outlook.com
   github: linuxsec
   twitter: yuyudhn
