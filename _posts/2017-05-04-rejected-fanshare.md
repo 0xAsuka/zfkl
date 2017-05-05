@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rejected Fanshare!
-description : "Fake Kurogaze" server just falling down. they back to blogspot now.
+description : Fake Kurogaze server just falling down. they back to blogspot now.
 tags: [shitpost]
 fullview: false
 ---
