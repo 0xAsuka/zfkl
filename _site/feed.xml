@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>zafk1el</title>
+		<description>just another github blog</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Hello World!</title>
+				<description>&lt;p&gt;Yoo.. ini post pertama gw di blog ini. Di blog ini gw gak bakal nulis tentang tutorial hacking maupun linux ya. Mungkin sekedar tulisan ringan mengenai dunia perjembutan yang sudah gak waras ini. Mungkin juga akan ada post mengenai review tentang movie ataupun tools yang gw coba nantinya.&lt;/p&gt;
+
+&lt;p&gt;Oh iya sekali waktu gw juga main CS:GO. Buat yang mau mabar bisa add. Current rank sih baru &lt;strong&gt;Master Guardian 1&lt;/strong&gt; cuman udah biasa main sama rank LEM SMFC jadi inshaallah gak beban.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;http://steamcommunity.com/profiles/76561198156888416&quot;&gt;zafk1el on Steam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;zafk1el&quot;&gt;zafk1el&lt;/h2&gt;
+
+</description>
+				<pubDate>Fri, 05 May 2017 00:00:00 +0700</pubDate>
+				<link>/general/2017/05/05/hello-world.html</link>
+				<guid isPermaLink="true">/general/2017/05/05/hello-world.html</guid>
+			</item>
+		
+			<item>
+				<title>Configuration</title>
+				<description>&lt;p&gt;In your config file change these settings&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;dbyll&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  
+  &lt;span class=&quot;s&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;yourname&lt;/span&gt;  
+  &lt;span class=&quot;s&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youremail&lt;/span&gt;  
+  &lt;span class=&quot;s&quot;&gt;github&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;s&quot;&gt;twitter&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;s&quot;&gt;pinterest&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;s&quot;&gt;linkedin&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;s&quot;&gt;resume&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;asd123&lt;/span&gt;  
+  &lt;span class=&quot;s&quot;&gt;bio&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Your stylish,  minimalist theme!&lt;/span&gt;  
+  &lt;span class=&quot;s&quot;&gt;email_md5&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;md5ofemail&lt;/span&gt;  &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+</description>
+				<pubDate>Fri, 15 Nov 2013 00:00:00 +0700</pubDate>
+				<link>/general/setup/demo/2013/11/15/configuration.html</link>
+				<guid isPermaLink="true">/general/setup/demo/2013/11/15/configuration.html</guid>
+			</item>
+		
+	</channel>
+</rss>
