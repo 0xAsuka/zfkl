@@ -8,6 +8,7 @@ comments: true
 ---
 
 Yooo.. lagi nyoba nyoba jekyll bang. kayaknya lebih asik aja sih.
+
 Buat yang nanya, blog ini bakal diisi apa aja, tunggu aja post selanjutnya oke.
 
 **-zafkiel**
