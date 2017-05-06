@@ -52,3 +52,16 @@ rekt. back to blogspot.
 <a href="https://3.bp.blogspot.com/-J4XuZu7S1es/WQybAZuUHDI/AAAAAAAAFz8/M9EUs2psmuU4EcoFYZy6tuG0z3fgKhx2ACLcB/s1600/rekt.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="355" src="https://3.bp.blogspot.com/-J4XuZu7S1es/WQybAZuUHDI/AAAAAAAAFz8/M9EUs2psmuU4EcoFYZy6tuG0z3fgKhx2ACLcB/s640/rekt.png" width="640" /></a></div>
 
 Gak sanggup megang server ya . h h h.
+
+**Update 2 :**
+<div style="text-align:center">
+<a href="https://2.bp.blogspot.com/-8aTWutW4FrU/WQ1bUszXj0I/AAAAAAAAF0Y/SBr5PUsdH0cdlMOyoAMuYOg1NF3EQ-WfwCLcB/s1600/brainwash.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="260" src="https://2.bp.blogspot.com/-8aTWutW4FrU/WQ1bUszXj0I/AAAAAAAAF0Y/SBr5PUsdH0cdlMOyoAMuYOg1NF3EQ-WfwCLcB/s640/brainwash.png" width="640" /></a></div>
+
+Thats brainwish make me sad :( . Kok kesannya kita sirik sama server cacatmu sih. Kena hit bandwith 2GB gak sampe 5menit down. Apa yang perlu di sirikkan :(
+
+
+Oh iya, let me clarify this case, sebenernya tadi sudah komen juga disana. Komen baik baik.<br />
+<div style="text-align:center">
+<a href="https://3.bp.blogspot.com/-HjckfCpBQec/WQ1buY1lDiI/AAAAAAAAF0c/Z3lcFiqojTcV353dwNa1IH6CcMMLCsJzACLcB/s1600/rekt1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="254" src="https://3.bp.blogspot.com/-HjckfCpBQec/WQ1buY1lDiI/AAAAAAAAF0c/Z3lcFiqojTcV353dwNa1IH6CcMMLCsJzACLcB/s640/rekt1.png" width="640" /></a></div>
+
+&nbsp;Hasilnya apa ? Gw di b a n n e d ! . Keliatan kan siapa yang busuk. =))
